@@ -1,26 +1,10 @@
 {
-.appVersion = "1286";
+.appVersion = "3148";
 DisplayStrings = (
-"http://// //// "
+"/calc"
 );
 copyright = "Copyright 2010, 2012 Adobe Systems Incorporated. All Rights Reserved.";
 customParameters = (
-{
-name = trademark;
-value = "Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.";
-},
-{
-name = licenseURL;
-value = "http://www.adobe.com/type/legal.html";
-},
-{
-name = license;
-value = "Copyright 2010, 2012 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012\012This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL\012\012-----------------------------------------------------------\012SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\012-----------------------------------------------------------\012\012PREAMBLE\012The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\012\012The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\012\012DEFINITIONS\012\"Font Software\" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.\012\012\"Reserved Font Name\" refers to any names specified as such after the copyright statement(s).\012\012\"Original Version\" refers to the collection of Font Software components as distributed by the Copyright Holder(s).\012\012\"Modified Version\" refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.\012\012\"Author\" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.\012\012PERMISSION & CONDITIONS\012Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\012\0121) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\012\0122) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\012\0123) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\012\0124) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\012\0125) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\012\012TERMINATION\012This license becomes null and void if any of the above conditions are not met.\012\012DISCLAIMER\012THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.";
-},
-{
-name = vendorID;
-value = ADBE;
-},
 {
 name = panose;
 value = (
@@ -902,6 +886,35 @@ uni014F,
 uni03020306,
 uni03020306.cap
 );
+},
+{
+name = trademark;
+value = "Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.";
+},
+{
+name = licenseURL;
+value = "http://www.adobe.com/type/legal.html";
+},
+{
+name = license;
+value = "Copyright 2010, 2012 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012\012This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL\012\012-----------------------------------------------------------\012SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\012-----------------------------------------------------------\012\012PREAMBLE\012The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\012\012The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\012\012DEFINITIONS\012\"Font Software\" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.\012\012\"Reserved Font Name\" refers to any names specified as such after the copyright statement(s).\012\012\"Original Version\" refers to the collection of Font Software components as distributed by the Copyright Holder(s).\012\012\"Modified Version\" refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.\012\012\"Author\" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.\012\012PERMISSION & CONDITIONS\012Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\012\0121) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\012\0122) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\012\0123) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\012\0124) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\012\0125) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\012\012TERMINATION\012This license becomes null and void if any of the above conditions are not met.\012\012DISCLAIMER\012THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.";
+},
+{
+name = vendorID;
+value = ADBE;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+},
+{
+Name = Width;
+Tag = wdth;
+}
+);
 }
 );
 date = "2012-09-12 16:54:39 +0000";
@@ -930,7 +943,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature case;\012feature dnom;\012feature numr;\012feature frac;\012feature onum;\012feature sups;\012feature ordn;\012feature pnum;\012feature salt;\012feature ss01;\012feature sinf;\012feature subs;\012feature ss02;\012feature ss03;\012feature ss04;\012feature locl;\012feature clig;\012";
+code = "feature case;\012feature dnom;\012feature numr;\012feature frac;\012feature onum;\012feature sups;\012feature ordn;\012feature pnum;\012feature salt;\012feature ss01;\012feature sinf;\012feature subs;\012feature ss02;\012feature ss03;\012feature ss04;\012feature locl;\012feature calt;\012";
 name = aalt;
 },
 {
@@ -992,10 +1005,12 @@ name = subs;
 {
 code = "sub a by a.a;\012sub agrave by agrave.a;\012sub aacute by aacute.a;\012sub acircumflex by acircumflex.a;\012sub atilde by atilde.a;\012sub adieresis by adieresis.a;\012sub amacron by amacron.a;\012sub abreve by abreve.a;\012sub aring by aring.a;\012sub uni01CE by uni01CE.a;\012sub uni1EA1 by uni1EA1.a;\012sub uni1EA3 by uni1EA3.a;\012sub uni1EA5 by uni1EA5.a;\012sub uni1EA7 by uni1EA7.a;\012sub uni1EA9 by uni1EA9.a;\012sub uni1EAB by uni1EAB.a;\012sub uni1EAD by uni1EAD.a;\012sub uni1EAF by uni1EAF.a;\012sub uni1EB1 by uni1EB1.a;\012sub uni1EB3 by uni1EB3.a;\012sub uni1EB5 by uni1EB5.a;\012sub uni1EB7 by uni1EB7.a;\012sub aogonek by aogonek.a;\012sub ordfeminine by ordfeminine.a;\012sub a.sups by a.supa;\012";
 name = ss02;
+notes = "Name: ";
 },
 {
 code = "sub g by g.a;\012sub gcircumflex by gcircumflex.a;\012sub gbreve by gbreve.a;\012sub gdotaccent by gdotaccent.a;\012sub uni0123 by uni0123.a;\012sub gcaron by gcaron.a;\012sub uni1E21 by uni1E21.a;\012sub uni00670303 by uni00670303.a;\012sub g.sups by g.supa;\012";
 name = ss03;
+notes = "Name: ";
 },
 {
 code = "sub I by I.a;\012sub Igrave by Igrave.a;\012sub Iacute by Iacute.a;\012sub Icircumflex by Icircumflex.a;\012sub Itilde by Itilde.a;\012sub Idieresis by Idieresis.a;\012sub Imacron by Imacron.a;\012sub Idotaccent by Idotaccent.a;\012sub uni01CF by uni01CF.a;\012sub uni1EC8 by uni1EC8.a;\012sub uni1ECA by uni1ECA.a;\012sub Iogonek by Iogonek.a;\012";
@@ -1014,6 +1029,10 @@ name = dlig;
 {
 code = "\012";
 name = clig;
+},
+{
+code = "sub v a r by var;\012sub c a l c parenleft by calc.002;\012";
+name = calt;
 }
 );
 fontMaster = (
@@ -67216,40 +67235,6 @@ width = 0;
 note = uni03020306.cap;
 },
 {
-glyphname = arrow_to_right;
-lastChange = "2019-12-25 07:11:20 +0000";
-layers = (
-{
-layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
-paths = (
-{
-closed = 1;
-nodes = (
-"309 -15 LINE",
-"582 250 LINE",
-"582 254 LINE",
-"309 519 LINE",
-"267 473 LINE",
-"378 370 LINE",
-"29 370 LINE",
-"29 316 LINE",
-"437 316 LINE",
-"504 254 LINE",
-"504 250 LINE",
-"437 188 LINE",
-"29 188 LINE",
-"29 134 LINE",
-"378 134 LINE",
-"267 31 LINE"
-);
-}
-);
-width = 600;
-}
-);
-unicode = 21D2;
-},
-{
 glyphname = plus_plus;
 lastChange = "2019-12-25 07:46:07 +0000";
 layers = (
@@ -67344,6 +67329,40 @@ width = 600;
 );
 },
 {
+glyphname = arrow_to_right;
+lastChange = "2019-12-25 07:11:20 +0000";
+layers = (
+{
+layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
+paths = (
+{
+closed = 1;
+nodes = (
+"309 -15 LINE",
+"582 250 LINE",
+"582 254 LINE",
+"309 519 LINE",
+"267 473 LINE",
+"378 370 LINE",
+"29 370 LINE",
+"29 316 LINE",
+"437 316 LINE",
+"504 254 LINE",
+"504 250 LINE",
+"437 188 LINE",
+"29 188 LINE",
+"29 134 LINE",
+"378 134 LINE",
+"267 31 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 21D2;
+},
+{
 glyphname = add_value;
 lastChange = "2019-12-25 07:38:59 +0000";
 layers = (
@@ -67391,6 +67410,199 @@ width = 685;
 );
 },
 {
+glyphname = calc;
+lastChange = "2023-01-28 06:23:50 +0000";
+layers = (
+{
+layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
+paths = (
+{
+closed = 1;
+nodes = (
+"30 560 OFFCURVE",
+"69 599 OFFCURVE",
+"122 599 CURVE SMOOTH",
+"1226 599 LINE SMOOTH",
+"1279 599 OFFCURVE",
+"1318 560 OFFCURVE",
+"1318 508 CURVE SMOOTH",
+"1318 46 LINE SMOOTH",
+"1318 -6 OFFCURVE",
+"1279 -45 OFFCURVE",
+"1226 -45 CURVE SMOOTH",
+"122 -45 LINE SMOOTH",
+"69 -45 OFFCURVE",
+"30 -6 OFFCURVE",
+"30 46 CURVE SMOOTH",
+"30 508 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"375 99 OFFCURVE",
+"410 121 OFFCURVE",
+"421 132 QCURVE",
+"382 192 LINE",
+"369 181 OFFCURVE",
+"338 165 OFFCURVE",
+"322 165 QCURVE SMOOTH",
+"283 165 OFFCURVE",
+"249 211 OFFCURVE",
+"249 253 QCURVE SMOOTH",
+"249 294 OFFCURVE",
+"278 361 OFFCURVE",
+"326 401 OFFCURVE",
+"354 401 QCURVE SMOOTH",
+"380 401 OFFCURVE",
+"401 370 QCURVE",
+"465 420 LINE",
+"448 450 OFFCURVE",
+"393 483 OFFCURVE",
+"359 483 QCURVE SMOOTH",
+"316 483 OFFCURVE",
+"241 448 OFFCURVE",
+"184 385 OFFCURVE",
+"151 298 OFFCURVE",
+"151 247 QCURVE SMOOTH",
+"151 195 OFFCURVE",
+"189 121 OFFCURVE",
+"257 83 OFFCURVE",
+"302 83 QCURVE SMOOTH",
+"329 83 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"615 108 OFFCURVE",
+"634 128 QCURVE",
+"635 128 LINE",
+"635 91 LINE",
+"713 91 LINE",
+"772 388 LINE",
+"696 388 LINE",
+"683 358 LINE",
+"682 358 LINE",
+"674 376 OFFCURVE",
+"639 395 OFFCURVE",
+"620 395 QCURVE SMOOTH",
+"589 395 OFFCURVE",
+"533 364 OFFCURVE",
+"488 309 OFFCURVE",
+"462 235 OFFCURVE",
+"462 193 QCURVE SMOOTH",
+"462 141 OFFCURVE",
+"506 84 OFFCURVE",
+"545 84 QCURVE SMOOTH",
+"567 84 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"561 159 OFFCURVE",
+"561 205 QCURVE SMOOTH",
+"561 238 OFFCURVE",
+"580 289 OFFCURVE",
+"610 318 OFFCURVE",
+"627 318 QCURVE SMOOTH",
+"635 318 OFFCURVE",
+"654 307 OFFCURVE",
+"659 295 QCURVE",
+"640 200 LINE",
+"629 177 OFFCURVE",
+"600 161 OFFCURVE",
+"588 161 QCURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"896 96 OFFCURVE",
+"904 98 QCURVE",
+"907 168 LINE",
+"904 168 OFFCURVE",
+"900 167 OFFCURVE",
+"897 167 QCURVE SMOOTH",
+"893 167 OFFCURVE",
+"885 174 OFFCURVE",
+"885 182 QCURVE SMOOTH",
+"885 184 OFFCURVE",
+"885 189 OFFCURVE",
+"886 193 QCURVE SMOOTH",
+"950 512 LINE",
+"855 512 LINE",
+"792 197 LINE SMOOTH",
+"789 184 OFFCURVE",
+"787 165 OFFCURVE",
+"787 156 QCURVE SMOOTH",
+"787 126 OFFCURVE",
+"819 91 OFFCURVE",
+"855 91 QCURVE SMOOTH",
+"871 91 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1167 106 OFFCURVE",
+"1184 118 QCURVE",
+"1145 177 LINE",
+"1137 171 OFFCURVE",
+"1118 160 OFFCURVE",
+"1104 160 QCURVE SMOOTH",
+"1083 160 OFFCURVE",
+"1062 187 OFFCURVE",
+"1062 209 QCURVE SMOOTH",
+"1062 239 OFFCURVE",
+"1081 289 OFFCURVE",
+"1115 319 OFFCURVE",
+"1136 319 QCURVE SMOOTH",
+"1147 319 OFFCURVE",
+"1163 311 OFFCURVE",
+"1171 303 QCURVE",
+"1223 358 LINE",
+"1212 372 OFFCURVE",
+"1171 395 OFFCURVE",
+"1142 395 QCURVE SMOOTH",
+"1104 395 OFFCURVE",
+"1039 365 OFFCURVE",
+"991 313 OFFCURVE",
+"964 245 OFFCURVE",
+"964 208 QCURVE SMOOTH",
+"964 168 OFFCURVE",
+"996 113 OFFCURVE",
+"1050 84 OFFCURVE",
+"1083 84 QCURVE SMOOTH",
+"1119 84 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1634 -152 LINE",
+"1557 -25 OFFCURVE",
+"1519 126 OFFCURVE",
+"1519 278 CURVE SMOOTH",
+"1519 430 OFFCURVE",
+"1557 581 OFFCURVE",
+"1634 708 CURVE",
+"1583 732 LINE",
+"1500 598 OFFCURVE",
+"1451 454 OFFCURVE",
+"1451 278 CURVE SMOOTH",
+"1451 102 OFFCURVE",
+"1500 -42 OFFCURVE",
+"1583 -176 CURVE"
+);
+}
+);
+width = 1672;
+}
+);
+},
+{
 glyphname = comment_mark_1;
 lastChange = "2019-12-25 07:47:11 +0000";
 layers = (
@@ -67417,246 +67629,6 @@ nodes = (
 }
 );
 width = 957;
-}
-);
-},
-{
-glyphname = html_comment_right;
-lastChange = "2019-12-26 16:18:38 +0000";
-layers = (
-{
-layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
-paths = (
-{
-closed = 1;
-nodes = (
-"759 363 LINE",
-"623 518 LINE",
-"567 488 LINE",
-"685 332 LINE",
-"567 174 LINE",
-"623 146 LINE",
-"759 301 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"496 286 LINE",
-"67 286 LINE",
-"67 368 LINE",
-"496 368 LINE"
-);
-}
-);
-width = 804;
-}
-);
-},
-{
-glyphname = html_comment_left;
-lastChange = "2019-12-25 07:56:35 +0000";
-layers = (
-{
-layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
-paths = (
-{
-closed = 1;
-nodes = (
-"181 146 LINE",
-"237 174 LINE",
-"119 332 LINE",
-"237 488 LINE",
-"181 518 LINE",
-"45 363 LINE",
-"45 301 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"366 198 LINE",
-"423 198 LINE",
-"434 576 LINE",
-"436 670 LINE",
-"353 670 LINE",
-"355 576 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"335 14 OFFCURVE",
-"362 -12 OFFCURVE",
-"395 -12 CURVE SMOOTH",
-"427 -12 OFFCURVE",
-"454 14 OFFCURVE",
-"454 50 CURVE SMOOTH",
-"454 88 OFFCURVE",
-"427 114 OFFCURVE",
-"395 114 CURVE SMOOTH",
-"362 114 OFFCURVE",
-"335 88 OFFCURVE",
-"335 50 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"981 368 LINE",
-"981 286 LINE",
-"552 286 LINE",
-"552 368 LINE"
-);
-}
-);
-width = 1048;
-}
-);
-},
-{
-glyphname = html;
-lastChange = "2019-12-25 08:22:13 +0000";
-layers = (
-{
-layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
-paths = (
-{
-closed = 1;
-nodes = (
-"45 617 OFFCURVE",
-"84 656 OFFCURVE",
-"137 656 CURVE SMOOTH",
-"1783 656 LINE SMOOTH",
-"1836 656 OFFCURVE",
-"1875 617 OFFCURVE",
-"1875 565 CURVE SMOOTH",
-"1875 89 LINE SMOOTH",
-"1875 37 OFFCURVE",
-"1836 -2 OFFCURVE",
-"1783 -2 CURVE SMOOTH",
-"137 -2 LINE SMOOTH",
-"84 -2 OFFCURVE",
-"45 37 OFFCURVE",
-"45 89 CURVE SMOOTH",
-"45 565 LINE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"300 127 LINE",
-"300 314 LINE",
-"470 314 LINE",
-"470 127 LINE",
-"544 127 LINE",
-"544 546 LINE",
-"470 546 LINE",
-"470 378 LINE",
-"300 378 LINE",
-"300 546 LINE",
-"226 546 LINE",
-"226 127 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"807 127 LINE",
-"807 484 LINE",
-"928 484 LINE",
-"928 546 LINE",
-"612 546 LINE",
-"612 484 LINE",
-"733 484 LINE",
-"733 127 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1064 127 LINE",
-"1064 319 LINE SMOOTH",
-"1064 358 OFFCURVE",
-"1059 413 OFFCURVE",
-"1056 453 CURVE",
-"1059 453 LINE",
-"1091 357 LINE",
-"1164 166 LINE",
-"1198 166 LINE",
-"1270 357 LINE",
-"1304 453 LINE",
-"1307 453 LINE",
-"1303 413 OFFCURVE",
-"1297 358 OFFCURVE",
-"1297 319 CURVE SMOOTH",
-"1297 127 LINE",
-"1366 127 LINE",
-"1366 546 LINE",
-"1285 546 LINE",
-"1211 340 LINE",
-"1184 261 LINE",
-"1181 261 LINE",
-"1153 340 LINE",
-"1077 546 LINE",
-"996 546 LINE",
-"996 127 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1720 127 LINE",
-"1720 191 LINE",
-"1546 191 LINE",
-"1546 546 LINE",
-"1472 546 LINE",
-"1472 127 LINE"
-);
-}
-);
-width = 1920;
-}
-);
-},
-{
-glyphname = css_comment_start;
-lastChange = "2019-12-26 16:11:56 +0000";
-layers = (
-{
-layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
-paths = (
-{
-closed = 1;
-nodes = (
-"10 -160 LINE",
-"121 -160 LINE",
-"327 710 LINE",
-"217 710 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"432 85 LINE",
-"524 197 LINE",
-"616 85 LINE",
-"667 123 LINE",
-"594 245 LINE",
-"720 297 LINE",
-"701 357 LINE",
-"567 326 LINE",
-"555 465 LINE",
-"492 465 LINE",
-"480 324 LINE",
-"347 357 LINE",
-"328 297 LINE",
-"454 245 LINE",
-"380 123 LINE"
-);
-}
-);
-width = 920;
 }
 );
 },
@@ -67698,6 +67670,47 @@ nodes = (
 }
 );
 width = 914;
+}
+);
+},
+{
+glyphname = css_comment_start;
+lastChange = "2019-12-26 16:11:56 +0000";
+layers = (
+{
+layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
+paths = (
+{
+closed = 1;
+nodes = (
+"10 -160 LINE",
+"121 -160 LINE",
+"327 710 LINE",
+"217 710 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"432 85 LINE",
+"524 197 LINE",
+"616 85 LINE",
+"667 123 LINE",
+"594 245 LINE",
+"720 297 LINE",
+"701 357 LINE",
+"567 326 LINE",
+"555 465 LINE",
+"492 465 LINE",
+"480 324 LINE",
+"347 357 LINE",
+"328 297 LINE",
+"454 245 LINE",
+"380 123 LINE"
+);
+}
+);
+width = 920;
 }
 );
 },
@@ -67937,6 +67950,205 @@ width = 3011;
 );
 },
 {
+glyphname = html;
+lastChange = "2019-12-25 08:22:13 +0000";
+layers = (
+{
+layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
+paths = (
+{
+closed = 1;
+nodes = (
+"45 617 OFFCURVE",
+"84 656 OFFCURVE",
+"137 656 CURVE SMOOTH",
+"1783 656 LINE SMOOTH",
+"1836 656 OFFCURVE",
+"1875 617 OFFCURVE",
+"1875 565 CURVE SMOOTH",
+"1875 89 LINE SMOOTH",
+"1875 37 OFFCURVE",
+"1836 -2 OFFCURVE",
+"1783 -2 CURVE SMOOTH",
+"137 -2 LINE SMOOTH",
+"84 -2 OFFCURVE",
+"45 37 OFFCURVE",
+"45 89 CURVE SMOOTH",
+"45 565 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"300 127 LINE",
+"300 314 LINE",
+"470 314 LINE",
+"470 127 LINE",
+"544 127 LINE",
+"544 546 LINE",
+"470 546 LINE",
+"470 378 LINE",
+"300 378 LINE",
+"300 546 LINE",
+"226 546 LINE",
+"226 127 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"807 127 LINE",
+"807 484 LINE",
+"928 484 LINE",
+"928 546 LINE",
+"612 546 LINE",
+"612 484 LINE",
+"733 484 LINE",
+"733 127 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1064 127 LINE",
+"1064 319 LINE SMOOTH",
+"1064 358 OFFCURVE",
+"1059 413 OFFCURVE",
+"1056 453 CURVE",
+"1059 453 LINE",
+"1091 357 LINE",
+"1164 166 LINE",
+"1198 166 LINE",
+"1270 357 LINE",
+"1304 453 LINE",
+"1307 453 LINE",
+"1303 413 OFFCURVE",
+"1297 358 OFFCURVE",
+"1297 319 CURVE SMOOTH",
+"1297 127 LINE",
+"1366 127 LINE",
+"1366 546 LINE",
+"1285 546 LINE",
+"1211 340 LINE",
+"1184 261 LINE",
+"1181 261 LINE",
+"1153 340 LINE",
+"1077 546 LINE",
+"996 546 LINE",
+"996 127 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1720 127 LINE",
+"1720 191 LINE",
+"1546 191 LINE",
+"1546 546 LINE",
+"1472 546 LINE",
+"1472 127 LINE"
+);
+}
+);
+width = 1920;
+}
+);
+},
+{
+glyphname = html_comment_left;
+lastChange = "2019-12-25 07:56:35 +0000";
+layers = (
+{
+layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
+paths = (
+{
+closed = 1;
+nodes = (
+"181 146 LINE",
+"237 174 LINE",
+"119 332 LINE",
+"237 488 LINE",
+"181 518 LINE",
+"45 363 LINE",
+"45 301 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"366 198 LINE",
+"423 198 LINE",
+"434 576 LINE",
+"436 670 LINE",
+"353 670 LINE",
+"355 576 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"335 14 OFFCURVE",
+"362 -12 OFFCURVE",
+"395 -12 CURVE SMOOTH",
+"427 -12 OFFCURVE",
+"454 14 OFFCURVE",
+"454 50 CURVE SMOOTH",
+"454 88 OFFCURVE",
+"427 114 OFFCURVE",
+"395 114 CURVE SMOOTH",
+"362 114 OFFCURVE",
+"335 88 OFFCURVE",
+"335 50 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"981 368 LINE",
+"981 286 LINE",
+"552 286 LINE",
+"552 368 LINE"
+);
+}
+);
+width = 1048;
+}
+);
+},
+{
+glyphname = html_comment_right;
+lastChange = "2019-12-26 16:18:38 +0000";
+layers = (
+{
+layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
+paths = (
+{
+closed = 1;
+nodes = (
+"759 363 LINE",
+"623 518 LINE",
+"567 488 LINE",
+"685 332 LINE",
+"567 174 LINE",
+"623 146 LINE",
+"759 301 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"496 286 LINE",
+"67 286 LINE",
+"67 368 LINE",
+"496 368 LINE"
+);
+}
+);
+width = 804;
+}
+);
+},
+{
 glyphname = http;
 lastChange = "2020-05-15 08:24:32 +0000";
 layers = (
@@ -67999,6 +68211,408 @@ nodes = (
 width = 833;
 }
 );
+},
+{
+glyphname = var;
+lastChange = "2020-12-21 09:52:25 +0000";
+layers = (
+{
+layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
+paths = (
+{
+closed = 1;
+nodes = (
+"30 560 OFFCURVE",
+"69 599 OFFCURVE",
+"122 599 CURVE SMOOTH",
+"1196 599 LINE SMOOTH",
+"1249 599 OFFCURVE",
+"1288 560 OFFCURVE",
+"1288 508 CURVE SMOOTH",
+"1288 46 LINE SMOOTH",
+"1288 -6 OFFCURVE",
+"1249 -45 OFFCURVE",
+"1196 -45 CURVE SMOOTH",
+"122 -45 LINE SMOOTH",
+"69 -45 OFFCURVE",
+"30 -6 OFFCURVE",
+"30 46 CURVE SMOOTH",
+"30 508 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"494 480 LINE",
+"390 480 LINE",
+"350 311 LINE SMOOTH",
+"343 281 OFFCURVE",
+"330 220 OFFCURVE",
+"322 189 QCURVE",
+"320 189 LINE",
+"312 220 OFFCURVE",
+"299 281 OFFCURVE",
+"292 311 QCURVE SMOOTH",
+"251 480 LINE",
+"143 480 LINE",
+"257 94 LINE",
+"380 94 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"629 375 OFFCURVE",
+"635 404 QCURVE",
+"638 404 LINE",
+"645 375 OFFCURVE",
+"658 309 OFFCURVE",
+"666 281 QCURVE SMOOTH",
+"673 255 LINE",
+"649 255 OFFCURVE",
+"625 255 OFFCURVE",
+"601 255 CURVE",
+"608 281 LINE SMOOTH",
+"616 309 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"583 176 LINE",
+"691 176 LINE",
+"710 94 LINE",
+"818 94 LINE",
+"779 223 OFFCURVE",
+"739 351 OFFCURVE",
+"700 480 CURVE",
+"577 480 LINE",
+"459 94 LINE",
+"564 94 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"953 223 LINE",
+"992 223 LINE",
+"1059 94 LINE",
+"1172 94 LINE",
+"1089 244 LINE",
+"1118 259 OFFCURVE",
+"1152 314 OFFCURVE",
+"1152 355 QCURVE SMOOTH",
+"1152 392 OFFCURVE",
+"1127 440 OFFCURVE",
+"1084 468 OFFCURVE",
+"1028 480 OFFCURVE",
+"997 480 QCURVE SMOOTH",
+"851 480 LINE",
+"851 94 LINE",
+"953 94 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"990 400 LINE SMOOTH",
+"1020 400 OFFCURVE",
+"1052 380 OFFCURVE",
+"1052 355 QCURVE SMOOTH",
+"1052 304 OFFCURVE",
+"990 304 QCURVE SMOOTH",
+"953 304 LINE",
+"953 400 LINE"
+);
+}
+);
+width = 1318;
+}
+);
+},
+{
+glyphname = calc.001;
+lastChange = "2023-01-28 06:28:22 +0000";
+layers = (
+{
+layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
+paths = (
+{
+closed = 1;
+nodes = (
+"97 560 OFFCURVE",
+"142 599 OFFCURVE",
+"195 599 CURVE SMOOTH",
+"1403 599 LINE",
+"1360 285 LINE",
+"1403 -45 LINE",
+"99 -45 LINE SMOOTH",
+"46 -45 OFFCURVE",
+"13 -6 OFFCURVE",
+"21 46 CURVE SMOOTH",
+"90 508 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"422 99 OFFCURVE",
+"457 121 OFFCURVE",
+"468 132 QCURVE",
+"429 192 LINE",
+"416 181 OFFCURVE",
+"385 165 OFFCURVE",
+"369 165 QCURVE SMOOTH",
+"330 165 OFFCURVE",
+"296 211 OFFCURVE",
+"296 253 QCURVE SMOOTH",
+"296 294 OFFCURVE",
+"325 361 OFFCURVE",
+"373 401 OFFCURVE",
+"401 401 QCURVE SMOOTH",
+"427 401 OFFCURVE",
+"448 370 QCURVE",
+"512 420 LINE",
+"495 450 OFFCURVE",
+"440 483 OFFCURVE",
+"406 483 QCURVE SMOOTH",
+"363 483 OFFCURVE",
+"288 448 OFFCURVE",
+"231 385 OFFCURVE",
+"198 298 OFFCURVE",
+"198 247 QCURVE SMOOTH",
+"198 195 OFFCURVE",
+"236 121 OFFCURVE",
+"304 83 OFFCURVE",
+"349 83 QCURVE SMOOTH",
+"376 83 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"662 108 OFFCURVE",
+"681 128 QCURVE",
+"682 128 LINE",
+"682 91 LINE",
+"760 91 LINE",
+"819 388 LINE",
+"743 388 LINE",
+"730 358 LINE",
+"729 358 LINE",
+"721 376 OFFCURVE",
+"686 395 OFFCURVE",
+"667 395 QCURVE SMOOTH",
+"636 395 OFFCURVE",
+"580 364 OFFCURVE",
+"535 309 OFFCURVE",
+"509 235 OFFCURVE",
+"509 193 QCURVE SMOOTH",
+"509 141 OFFCURVE",
+"553 84 OFFCURVE",
+"592 84 QCURVE SMOOTH",
+"614 84 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"608 159 OFFCURVE",
+"608 205 QCURVE SMOOTH",
+"608 238 OFFCURVE",
+"627 289 OFFCURVE",
+"657 318 OFFCURVE",
+"674 318 QCURVE SMOOTH",
+"682 318 OFFCURVE",
+"701 307 OFFCURVE",
+"706 295 QCURVE",
+"687 200 LINE",
+"676 177 OFFCURVE",
+"647 161 OFFCURVE",
+"635 161 QCURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"943 96 OFFCURVE",
+"951 98 QCURVE",
+"954 168 LINE",
+"951 168 OFFCURVE",
+"947 167 OFFCURVE",
+"944 167 QCURVE SMOOTH",
+"940 167 OFFCURVE",
+"932 174 OFFCURVE",
+"932 182 QCURVE SMOOTH",
+"932 184 OFFCURVE",
+"932 189 OFFCURVE",
+"933 193 QCURVE SMOOTH",
+"997 512 LINE",
+"902 512 LINE",
+"839 197 LINE SMOOTH",
+"836 184 OFFCURVE",
+"834 165 OFFCURVE",
+"834 156 QCURVE SMOOTH",
+"834 126 OFFCURVE",
+"866 91 OFFCURVE",
+"902 91 QCURVE SMOOTH",
+"918 91 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1214 106 OFFCURVE",
+"1231 118 QCURVE",
+"1192 177 LINE",
+"1184 171 OFFCURVE",
+"1165 160 OFFCURVE",
+"1151 160 QCURVE SMOOTH",
+"1130 160 OFFCURVE",
+"1109 187 OFFCURVE",
+"1109 209 QCURVE SMOOTH",
+"1109 239 OFFCURVE",
+"1128 289 OFFCURVE",
+"1162 319 OFFCURVE",
+"1183 319 QCURVE SMOOTH",
+"1194 319 OFFCURVE",
+"1210 311 OFFCURVE",
+"1218 303 QCURVE",
+"1270 358 LINE",
+"1259 372 OFFCURVE",
+"1218 395 OFFCURVE",
+"1189 395 QCURVE SMOOTH",
+"1151 395 OFFCURVE",
+"1086 365 OFFCURVE",
+"1038 313 OFFCURVE",
+"1011 245 OFFCURVE",
+"1011 208 QCURVE SMOOTH",
+"1011 168 OFFCURVE",
+"1043 113 OFFCURVE",
+"1097 84 OFFCURVE",
+"1130 84 QCURVE SMOOTH",
+"1166 84 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1378 -42 OFFCURVE",
+"1329 102 OFFCURVE",
+"1329 278 CURVE SMOOTH",
+"1329 454 OFFCURVE",
+"1378 598 OFFCURVE",
+"1461 732 CURVE",
+"1512 708 LINE",
+"1435 581 OFFCURVE",
+"1397 430 OFFCURVE",
+"1397 278 CURVE SMOOTH",
+"1397 126 OFFCURVE",
+"1435 -25 OFFCURVE",
+"1512 -152 CURVE",
+"1461 -176 LINE"
+);
+}
+);
+width = 1550;
+}
+);
+},
+{
+glyphname = calc.002;
+lastChange = "2023-01-28 06:34:29 +0000";
+layers = (
+{
+layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
+paths = (
+{
+closed = 1;
+nodes = (
+"30 560 OFFCURVE",
+"69 599 OFFCURVE",
+"122 599 CURVE SMOOTH",
+"582 599 LINE SMOOTH",
+"635 599 OFFCURVE",
+"674 560 OFFCURVE",
+"674 508 CURVE SMOOTH",
+"674 46 LINE SMOOTH",
+"674 -6 OFFCURVE",
+"635 -45 OFFCURVE",
+"582 -45 CURVE SMOOTH",
+"122 -45 LINE SMOOTH",
+"69 -45 OFFCURVE",
+"30 -6 OFFCURVE",
+"30 46 CURVE SMOOTH",
+"30 508 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"990 -152 LINE",
+"913 -25 OFFCURVE",
+"875 126 OFFCURVE",
+"875 278 CURVE SMOOTH",
+"875 430 OFFCURVE",
+"913 581 OFFCURVE",
+"990 708 CURVE",
+"939 732 LINE",
+"856 598 OFFCURVE",
+"807 454 OFFCURVE",
+"807 278 CURVE SMOOTH",
+"807 102 OFFCURVE",
+"856 -42 OFFCURVE",
+"939 -176 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"352 91 OFFCURVE",
+"375 149 OFFCURVE",
+"379 184 QCURVE SMOOTH",
+"391 285 LINE",
+"456 285 LINE",
+"456 359 LINE",
+"400 359 LINE",
+"404 390 LINE SMOOTH",
+"408 424 OFFCURVE",
+"443 424 QCURVE SMOOTH",
+"451 424 OFFCURVE",
+"464 420 OFFCURVE",
+"468 418 QCURVE",
+"487 494 LINE",
+"478 499 OFFCURVE",
+"444 505 OFFCURVE",
+"434 505 QCURVE SMOOTH",
+"392 505 OFFCURVE",
+"339 481 OFFCURVE",
+"309 427 OFFCURVE",
+"305 382 QCURVE SMOOTH",
+"303 359 LINE",
+"298 359 LINE",
+"253 355 LINE",
+"253 285 LINE",
+"294 285 LINE",
+"286 215 LINE SMOOTH",
+"282 180 OFFCURVE",
+"272 146 OFFCURVE",
+"257 135 OFFCURVE",
+"244 135 QCURVE",
+"238 135 OFFCURVE",
+"226 137 OFFCURVE",
+"219 139 QCURVE",
+"207 64 LINE",
+"214 60 OFFCURVE",
+"243 56 OFFCURVE",
+"261 55 QCURVE SMOOTH",
+"304 55 OFFCURVE"
+);
+}
+);
+width = 1028;
+}
+);
 }
 );
 instances = (
@@ -68017,7 +68631,6 @@ instanceInterpolations = {
 "8B4EFE1E-6C47-485C-9646-016EA71CC488" = 1;
 };
 name = Regular;
-weightClass = Normal;
 }
 );
 kerning = {
