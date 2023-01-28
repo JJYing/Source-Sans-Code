@@ -1,8 +1,5 @@
 {
-.appVersion = "3148";
-DisplayStrings = (
-"/calc"
-);
+.appVersion = "3151";
 copyright = "Copyright 2010, 2012 Adobe Systems Incorporated. All Rights Reserved.";
 customParameters = (
 {
