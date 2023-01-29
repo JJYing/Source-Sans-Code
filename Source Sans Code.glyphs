@@ -1028,7 +1028,7 @@ code = "\012";
 name = clig;
 },
 {
-code = "sub v a r by var;\012sub c a l c parenleft by calc.002;\012";
+code = "sub v a r by var;\012sub c a l c by calc.002;\012";
 name = calt;
 }
 );
@@ -68517,7 +68517,7 @@ width = 1550;
 },
 {
 glyphname = calc.002;
-lastChange = "2023-01-28 06:34:29 +0000";
+lastChange = "2023-01-28 06:55:05 +0000";
 layers = (
 {
 layerId = "8B4EFE1E-6C47-485C-9646-016EA71CC488";
@@ -68541,25 +68541,6 @@ nodes = (
 "30 -6 OFFCURVE",
 "30 46 CURVE SMOOTH",
 "30 508 LINE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"990 -152 LINE",
-"913 -25 OFFCURVE",
-"875 126 OFFCURVE",
-"875 278 CURVE SMOOTH",
-"875 430 OFFCURVE",
-"913 581 OFFCURVE",
-"990 708 CURVE",
-"939 732 LINE",
-"856 598 OFFCURVE",
-"807 454 OFFCURVE",
-"807 278 CURVE SMOOTH",
-"807 102 OFFCURVE",
-"856 -42 OFFCURVE",
-"939 -176 CURVE"
 );
 },
 {
@@ -68607,7 +68588,7 @@ nodes = (
 );
 }
 );
-width = 1028;
+width = 714;
 }
 );
 }
